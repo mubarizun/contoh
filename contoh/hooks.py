@@ -173,3 +173,4 @@ user_data_fields = [
 # 	"contoh.auth.validate"
 # ]
 
+fixtures = ["Property Setter"]
