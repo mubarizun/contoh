@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include contoh *.css
+recursive-include contoh *.csv
+recursive-include contoh *.html
+recursive-include contoh *.ico
+recursive-include contoh *.js
+recursive-include contoh *.json
+recursive-include contoh *.md
+recursive-include contoh *.png
+recursive-include contoh *.py
+recursive-include contoh *.svg
+recursive-include contoh *.txt
+recursive-exclude contoh *.pyc

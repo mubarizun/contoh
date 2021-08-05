@@ -1,0 +1,7 @@
+## Contoh
+
+apa
+
+#### License
+
+MIT
